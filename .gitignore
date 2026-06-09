@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Drivers
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+.DS_Store
