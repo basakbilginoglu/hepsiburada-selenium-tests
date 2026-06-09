@@ -16,28 +16,26 @@ This project is a UI test automation framework developed for the Hepsiburada e-c
 
 ## 📁 Project Structure
 
-
-hepsiburada-selenium-tests
-│
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── org/example
+```text
+hepsiburada-selenium-tests/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── org/example/
 │   │           └── Main.java
 │   │
-│   └── test
-│       └── java
-│           ├── page
+│   └── test/
+│       └── java/
+│           ├── page/
 │           │   ├── BasePage.java
 │           │   ├── LoginPage.java
 │           │   └── MainPage.java
 │           │
-│           └── tests
+│           └── tests/
 │               └── LoginTests.java
 │
 ├── pom.xml
 └── .gitignore
----
 
 ## 🧪 Test Scenarios
 
