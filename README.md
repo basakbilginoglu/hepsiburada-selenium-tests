@@ -26,7 +26,7 @@ hepsiburada-selenium-tests/
 │   │
 │   └── test/
 │       └── java/
-│           ├── page/
+│           ├── pages/
 │           │   ├── BasePage.java
 │           │   ├── LoginPage.java
 │           │   └── MainPage.java
